@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a5ae61133736047ee903e34f0a60a9ac
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Meteor1_prefab: {fileID: 164632, guid: 3b3c325a545104d8b89d36c9446b2472, type: 2}
+  - Meteor2_prefab: {fileID: 142450, guid: 92a82ae6fa46349d987978f01efacfc2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

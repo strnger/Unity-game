@@ -40,7 +40,7 @@ public class Heavenconcealed : MonoBehaviour {
 			temp = cam.transform.rotation;
 			meteorpos = cam.transform.position;
 			meteorpos += cam.transform.forward * 100;
-			meteorpos.y = 500;
+			meteorpos.y = 300;
 			
 			GameObject meteor1 = (GameObject)Instantiate (Meteor1_prefab, meteorpos, temp);
 			meteor1.rigidbody.AddForce (0, 0, 0);

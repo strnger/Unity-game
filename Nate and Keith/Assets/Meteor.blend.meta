@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8aa3ada61cf1746258341e7b2d46e9a1
+guid: 3f162fbe549f446d5b827d392655eb0c
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -7,7 +7,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Sphere
+    4300000: Mball
     7400000: Default Take
     9500000: //RootNode
   materials:

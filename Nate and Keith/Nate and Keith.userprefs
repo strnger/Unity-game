@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Heavenconcealed.cs">
     <Files>
-      <File FileName="Assets/scripts/Heavenconcealed.cs" Line="60" Column="33" />
+      <File FileName="Assets/scripts/Heavenconcealed.cs" Line="46" Column="35" />
+      <File FileName="Assets/scripts/Bullet_Thermal_detonator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/firstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/FPS.cs" Line="20" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

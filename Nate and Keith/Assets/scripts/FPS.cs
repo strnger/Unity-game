@@ -4,7 +4,7 @@ using System.Collections;
 public class FPS : MonoBehaviour {
 
 	public GameObject Bullet_prefab;
-	float bulletImpulse = 200.0f;
+	float bulletImpulse = 100.0f;
 
 	// Use this for initialization
 	void Start () {

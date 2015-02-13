@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 99ed3c5fcf84e46f8bc5a401497216a7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireBall_prefab: {fileID: 167532, guid: 687b30be92af44d8caf605b1b9d0ffd8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
